@@ -12,13 +12,15 @@ I'm Yacine, a full-stack web developer passionate about building clean, efficien
 ## 🚀 Projects:
 
 [Odinbook](https://github.com/3antozz/Odin-Book): Twitter-inspired social media app built with full-stack technologies.
+
 [AntodiA](https://github.com/3antozz/Messaging-app): A real-time messaging app.
+
 [Where Is Waldo](https://github.com/3antozz/Where-is-Waldo): Classic game built with React and Express.
 
 ## 📫 Reach me at:
-- Portfolio: [yacinedev.com](https://yacinedev.com)
-- LinkedIn: [Yacine Belahadji](https://www.linkedin.com/in/yacine-belahadji-b21a60270/)
-- Email: belahadji.yacine@gmail.com
+- Portfolio: [yacinedev.com](https://yacinedev.com).
+- LinkedIn: [Yacine Belahadji](https://www.linkedin.com/in/yacine-belahadji-b21a60270/).
+- Email: belahadji.yacine@gmail.com.
 
 
 <!--
