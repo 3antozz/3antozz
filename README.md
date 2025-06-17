@@ -9,7 +9,7 @@ I'm Yacine, a full-stack web developer passionate about building clean, efficien
 ### 🌱 I’m currently learning:
 - TypeScript, TailwindCSS, Zustand, Docker
 
-## 🚀 Projects:
+## 🚀 Latest Projects:
 
 [Odinbook](https://github.com/3antozz/Odin-Book): Twitter-inspired social media app built with full-stack technologies.
 
