@@ -19,7 +19,7 @@ I'm Yacine, a full-stack web developer passionate about building clean, efficien
 
 ## 📫 Reach me at:
 - Portfolio: [yacinedev.com](https://yacinedev.com).
-- LinkedIn: [Yacine Belahadji](https://www.linkedin.com/in/yacine-belahadji-b21a60270/).
+- LinkedIn: [Yacine Belahadji](https://www.linkedin.com/in/yacine-belahadji).
 - Email: belahadji.yacine@gmail.com.
 
 
