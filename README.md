@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Yacine, a full-stack web developer passionate about building clean, efficient, and user-friendly applications. I specialize in React, Node.js, and Next.js, and I love turning ideas into code. I'm currently focused on TypeScript and improving my back-end skills with Express and PostgreSQL.
+I'm Yacine, a full-stack web developer passionate about building clean, efficient, and user-friendly applications. I specialize in React, Node.js, and Next.js, and I love turning ideas into code. I'm currently focused on broadening my skill set by learning new tech: TypeScript, TailwindCSS, Zustand...
 
 ## 🛠️ Tech Stack:
 - Frontend: React, Next.js, EJS, HTML, CSS
