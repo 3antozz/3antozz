@@ -11,6 +11,8 @@ I'm Yacine, a full-stack web developer passionate about building clean, efficien
 
 ## 🚀 Latest Projects:
 
+[DropZone](https://github.com/3antozz/dropzone): Nextjs app designed to store every location where you dropped packages or items using Google Maps API.
+
 [Odinbook](https://github.com/3antozz/Odin-Book): Twitter-inspired social media app built with full-stack technologies.
 
 [AntodiA](https://github.com/3antozz/Messaging-app): A real-time messaging app.
