@@ -2,12 +2,12 @@
 I'm Yacine, a full-stack web developer passionate about building clean, efficient, and user-friendly applications. I specialize in React, Node.js, and Next.js, and I love turning ideas into code. I'm currently focused on broadening my skill set by learning new tech: TypeScript, TailwindCSS, Zustand...
 
 ## 🛠️ Tech Stack:
-- Frontend: React, Next.js, EJS, HTML, CSS
+- Frontend: React, Next.js, EJS, TailwindCSS, HTML, CSS
 - Backend: Node.js, Express, Prisma, PostgreSQL
-- Tools: Git, Vite, VS Code, Postman
+- Tools: TypeScript, Git, Vite, VS Code, Postman
 
 ### 🌱 I’m currently learning:
-- TypeScript, TailwindCSS, Zustand, Docker
+- Tanstacy (React) Query, Zustand, Docker, Redis
 
 ## 🚀 Latest Projects:
 
